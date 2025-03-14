@@ -15,7 +15,7 @@ Taskify is a simple and efficient task management application built with Flutter
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/taskify.git
+   git clone https://github.com/PraveenTech005/Taskify.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -29,13 +29,6 @@ Taskify is a simple and efficient task management application built with Flutter
    ```sh
    flutter run
    ```
-
-## Permissions
-Ensure the following permissions are added to `AndroidManifest.xml` for backup and file storage:
-```xml
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-```
 
 ## File Storage Path
 Backups are saved in:
