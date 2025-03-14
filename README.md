@@ -10,7 +10,7 @@ Taskify is a simple and efficient task management application built with Flutter
 - **Dark & Light Mode**: Customize the theme based on user preference.
 
 ## Screenshots
-![Taskify Screenshot](assets/screenshots/taskify_home.png)
+![Taskify Screenshot](assets/Taskify.png)
 
 ## Installation
 1. Clone this repository:
