@@ -1,0 +1,45 @@
+name: taskify
+description: "A new Flutter project."
+author: "Praveen"
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  shared_preferences: ^2.2.2
+  google_nav_bar: ^5.0.7
+  uuid: ^4.2.1
+  file_picker: ^9.0.2
+  open_file: ^3.2.1
+  path_provider: ^2.0.11
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/onboarding_bg.png
+
+  fonts:
+    - family: Changa
+      fonts:
+        - asset: fonts/Changa-Bold.ttf
+          weight: 700
+    - family: Chivo
+      fonts:
+        - asset: fonts/Chivo-Italic.ttf
+          style: italic
