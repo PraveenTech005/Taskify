@@ -10,7 +10,11 @@ Taskify is a simple and efficient task management application built with Flutter
 - **Dark & Light Mode**: Customize the theme based on user preference.
 
 ## Screenshots
-![Taskify Screenshot](assets/Taskify.png)
+<p align="center">
+   <img src="assets/Taskify.png" width="500" height="300" >
+   <img src="assets/Taskify-Figma-Light.png" width="400" height="300" >
+   <img src="assets/Taskify-Figma-Dark.png" width="400" height="300" >
+</p>
 
 ## Installation
 1. Clone this repository:
@@ -33,7 +37,7 @@ Taskify is a simple and efficient task management application built with Flutter
 ## File Storage Path
 Backups are saved in:
 ```
-Android/data/com.yourapp.taskify/files/backup/
+Android/data/com.example.taskify/files/backup/
 ```
 
 ## Contributing
